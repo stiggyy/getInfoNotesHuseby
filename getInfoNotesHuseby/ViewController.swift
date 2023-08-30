@@ -12,6 +12,9 @@ class ViewController: UIViewController {
     @IBOutlet weak var nameOutlet: UILabel!
     
     @IBOutlet weak var textOutlet: UITextField!
+    
+    var test = 7
+    
     override func viewDidLoad() {
         
     
